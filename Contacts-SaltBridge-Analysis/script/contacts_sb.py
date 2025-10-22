@@ -64,10 +64,10 @@ import seaborn as sns
 
 # === SYSTEMS (same file names) ===
 systems = {
-    "APO": ("apo.prmtop", "apo_merge.nc"),
-    "APO_Ca": ("apo.prmtop", "apo_Ca_merge.nc"),
-    "Icilin": ("icilin.prmtop", "icilin_merge.nc"),
-    "Icilin_Ca": ("icilin_ca.prmtop", "icilin_Ca_merge.nc"),
+    "APO": ("apo.prmtop", "apo.nc"),
+    "APO_Ca": ("apo.prmtop", "apo_Ca.nc"),
+    "Icilin": ("icilin.prmtop", "icilin.nc"),
+    "Icilin_Ca": ("icilin_ca.prmtop", "icilin_Ca.nc"),
 }
 
 # === RESIDUES (original numbering) ===
