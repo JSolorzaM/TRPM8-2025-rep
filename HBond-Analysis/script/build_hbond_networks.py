@@ -31,9 +31,7 @@ Example:
 --------
     python build_hbond_networks.py \
         -i Hbond_comparaciones_offset557_filteredBB.csv \
-        -o svg_networks \
-        --comparisons "APO vs APO_Ca" "APO vs Icilin" "APO vs Icilin_Ca" \
-        --figsize 12x10
+        -o out/svg_networks
 
 Notes:
 ------
