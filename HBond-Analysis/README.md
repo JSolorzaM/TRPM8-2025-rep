@@ -38,3 +38,10 @@ The resulting networks encode:
 - **Edge color & style:** interaction type  
 - **Edge thickness:** treated occupancy (persistence)  
 - **Node color:** structural domain (S1–S4, TRP, etc.)
+
+
+## Dependencies
+
+Install via pip:
+```bash
+pip install pandas matplotlib networkx
