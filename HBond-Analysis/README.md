@@ -39,16 +39,18 @@ The resulting networks encode:
 - **Edge thickness:** treated occupancy (persistence)  
 - **Node color:** structural domain (S1–S4, TRP, etc.)
 
+## Acknowledgments
+This repository was developed by **Jocelyn Solorza** with technical assistance 
+from **ChatGPT (OpenAI)** for documentation and Python optimization.
+All scientific design, analysis, and interpretation were performed by the author.
 
 ## Dependencies
-
 Install via pip:
 ```bash
 pip install pandas matplotlib networkx
 
 
 
-## Acknowledgments
-This repository was developed by **Jocelyn Solorza** with technical assistance 
-from **ChatGPT (OpenAI)** for documentation and Python optimization.
-All scientific design, analysis, and interpretation were performed by the author.
+
+
+
