@@ -28,6 +28,11 @@ Creates a single CSV file named:
 
 This CSV is used as input for `build_hbond_networks.py` to generate network visualizations.
 
+Command:
+-------
+python hbond_compare.py
+
+
 Requirements:
 -------------
     pip install pandas
