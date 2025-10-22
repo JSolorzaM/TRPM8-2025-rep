@@ -54,3 +54,4 @@ All scientific design, analysis, and interpretation were performed by the author
 1. Install required Python packages:
    ```bash
    pip install MDAnalysis numpy pandas matplotlib seaborn
+   python contacts_sb.py
